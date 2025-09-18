@@ -30,6 +30,7 @@ resource "docker_container" "custom_container" {
 
   command = ["tail", "-f", "/dev/null"]
 
+
   ports {
     internal = 8080
     external = 25678

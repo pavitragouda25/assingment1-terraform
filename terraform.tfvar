@@ -1,4 +1,4 @@
 image_name            = "ubuntu"
-volume_prefix         = "Atharva"
-network_name          = "Athrava_network"
+volume_prefix         = "pavitra"
+network_name          = "pavitra_network"
 container_name_suffix = "a1b2"
